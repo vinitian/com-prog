@@ -1,0 +1,5 @@
+A,B,C,D,E,Q,P
+B,A,C,D,E
+C,D,E
+D,A,B,C,E
+E,A,B,C,D
